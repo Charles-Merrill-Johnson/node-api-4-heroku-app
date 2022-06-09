@@ -1,6 +1,8 @@
-require('dotenv').config(); 
+require('dotenv').config();
 
 const server = require('./api/server');
+
+console.log('process.env.PORT:', process.env.PORT);
 
 const PORT = process.env.PORT || 9000;
 
