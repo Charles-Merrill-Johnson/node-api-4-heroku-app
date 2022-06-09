@@ -1,0 +1,20 @@
+{
+  "name": "api-4-heroku-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmj1980/node-api-4-heroku-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmj1980/node-api-4-heroku-app/issues"
+  },
+  "homepage": "https://github.com/cmj1980/node-api-4-heroku-app#readme"
+}
